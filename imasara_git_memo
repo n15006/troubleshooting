@@ -1,0 +1,7 @@
+クローン
+git clone URL
+
+コミット
+git commit -a -m "<comment>"
+プッシュ
+git push origin master

@@ -1,0 +1,4 @@
+無線が表示されない
+sudo apt-get purge bcmwl-kernel-source
+sudo apt-get install linux-generic bcmwl-kernel-source
+解決した
