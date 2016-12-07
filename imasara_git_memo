@@ -1,6 +1,7 @@
 クローン
 git clone URL
-
+追加したファイルの登録
+git add --all
 コミット
 git commit -a -m "<comment>"
 プッシュ
